@@ -1,3 +1,7 @@
 {
-"alunos": [{}]
+"alunos": [{
+"nome": "henning",
+"curso": "front",
+"matricula": "444"
+}]
 }
